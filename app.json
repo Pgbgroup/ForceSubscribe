@@ -6,9 +6,7 @@
     "eaglescout",
     "forcesub"
   ],
-  "repository": "https://github.com/MaxWizard1/maxx-forcesub-bot",
-  "success_url": "https://github.com/MaxWizard1/maxx-forcesub-bot",
-  "website": "https://github.com/MaxWizard1/maxx-forcesub-bot",  
+ 
   "addons": [],
   "buildpacks": [],
   "formation": {
