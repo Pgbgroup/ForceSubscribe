@@ -1,5 +1,5 @@
 # ForceSubscribe
 
-Free To Use 
+Free To Use
 
 Made By Pgbgroup
